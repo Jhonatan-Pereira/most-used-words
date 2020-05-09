@@ -1,24 +1,22 @@
 # most-used-words
 
-## Project setup
+## Sumário
+
+1. **[About](#About)**
+1. **[Install](#Install)**
+2. **[Setup](#Setup)**
+
+---
+
+## About
+Desenvolver uma aplicação com VueJS e ElectronJS com o propósito de praticar as melhores práticas no desenvolvimento de aplicações Desktop.
+
+## Install
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Setup
 ```
-npm run serve
+npm run electron:serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
