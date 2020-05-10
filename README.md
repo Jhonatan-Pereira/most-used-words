@@ -9,7 +9,7 @@
 ---
 
 ## About
-Desenvolver uma aplicação com VueJS e ElectronJS com o propósito de praticar as melhores práticas no desenvolvimento de aplicações Desktop.
+Desenvolver uma aplicação com VueJS e ElectronJS com o propósito de praticar e ter as melhores práticas no desenvolvimento de aplicações Desktop.
 
 ## Install
 ```
